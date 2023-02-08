@@ -11,6 +11,7 @@ h1{
     margin: 50px auto 2px auto;
     font-family: 'Sacramento', cursive;
     font-size: 70px;
+
 }
 h2{
     color: #66bfbf;
@@ -74,6 +75,7 @@ a:hover {
 .crow{
     position: absolute;
     width: 40%;
+    right: 35%;
 }
 .web-d{
     width: 20%;
